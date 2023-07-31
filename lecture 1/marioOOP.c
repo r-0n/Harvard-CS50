@@ -1,4 +1,4 @@
-//CS50 Lecture 2:
+//CS50 Lecture 1:
 //Implementind Mario Brigs in terminal
 //Author: Aaron Wajah
 //Date:2nd June, 2023.
